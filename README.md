@@ -2,6 +2,14 @@
 
 CampusFix is a full-stack campus issue reporting and management application. Students can report facility problems and track their resolution; administrators can review and prioritize reports, update their status, and share progress with students. Both dashboards and the reports they display are backed by MySQL.
 
+## Project walkthrough and screenshots
+
+The [complete project explanation](docs/CampusFix_Project_Explained.pdf) covers the application architecture, student and administrator workflows, database relationships, API endpoints, security, setup instructions, demo credentials, and project verification, with screenshots of the running application.
+
+![CampusFix student dashboard](docs/screenshots/03-student-dashboard.png)
+
+[Browse all application screenshots](docs/screenshots/).
+
 ## Technology
 
 - Java 21 and Spring Boot 3.5
